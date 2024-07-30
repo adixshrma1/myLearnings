@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
+.clock{
+    width: 300px;
+    height: 150px;
+    font-size: 50px;
+    background: black;
+    color: red;
+    border-radius: 30px;
+    border: solid silver 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
