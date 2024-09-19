@@ -24,4 +24,4 @@ dist-ssr
 *.sw?
 
 # by developer
-.evm
+.env
